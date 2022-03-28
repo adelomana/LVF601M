@@ -12,3 +12,5 @@ diet/agora103_genus.qza
 *.gz
 
 siggi/.ipynb_checkpoints/TEST_CPLEX_ADRIAN_MAR2022.alo.v001-checkpoint.ipynb
+
+siggi/AVT02_CHOK1_irrev_model_MARCH2022.mat
